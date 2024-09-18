@@ -55,6 +55,3 @@ Para ejecutar la aplicación, usa el siguiente comando:
 
 Para probar el microservicio, puedes usar herramientas como Postman. Envía una solicitud POST a `http://localhost:8080/api/palindromo` con el cuerpo en formato JSON.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
